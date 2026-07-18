@@ -1,5 +1,6 @@
 ---
 layout: home
+aside: false
 
 hero:
     name: Galaxia
