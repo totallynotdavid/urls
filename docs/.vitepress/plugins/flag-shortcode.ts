@@ -1,4 +1,4 @@
-import type MarkdownIt from 'markdown-it'
+import type MarkdownIt from 'markdown-it-async'
 
 // `:flag-xx:` → <img class="flag" src="/flags/xx.svg" ...>.
 // VitePress applies the site `base` to the root-absolute path at HTML time.
