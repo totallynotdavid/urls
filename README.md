@@ -1,5 +1,7 @@
+# Galaxia
+
 <p align="center">
-    <img src="https://i.imgur.com/bKC4xJd.png" width="450">
+    <img src="https://i.imgur.com/bKC4xJd.png" alt="Galaxia" width="450">
     <br>
      <a href="notes/basededatos.md">Base de datos</a> X |
      <a href="notes/biblioteca.md">Biblioteca</a> X |
@@ -22,7 +24,7 @@
 
 ---
 
-**GLOSARIO**
+## GLOSARIO
 
 - **General** significa que aquel sitio o aplicación provee soporte para varios sitios o archivos.
 - **Transmisión general** significa que aquel sitio provee alguna forma de contenido en emisión en continuo y alguna forma de descarga, ya sea a través de servidores de terceros o a través de una red entre pares.

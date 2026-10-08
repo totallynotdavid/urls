@@ -163,15 +163,15 @@ description: 'Directorio extenso de bibliotecas digitales y recursos en línea: 
 
   | Nombre | Librería | Interfaz | Traducción | Publicidad |
   | --- | --- | --- | --- | --- |
-  | [Ex-Hentai](https://e-hentai.org/) `descarga` `.torrent` | Grandísimo | {{a}} | [`EN`], [`ES`], [`JP`] y más | {{a}} |
-  | [E-Hentai](https://e-hentai.org/) `descarga` `.torrent` | Grandísimo | {{a}} | [`EN`], [`ES`], [`JP`] y más | {{a}} |
-  | [hitomi](https://hitomi.la/) `descarga` | Grande | {{a}} | [`EN`], [`ES`], [`JP`], coreano y más | {{a}} |
-  | [nhentai](https://nhentai.net/) `descarga` | Grande | {{a}} | [`EN`], [`ZH`] y [`JP`] | {{a}} |
-  | [Iku Hentai](https://ikuhentai.net/) `descarga` | Mediano | {{a}} | [`ES`] | {{a}} |
-  | :flag-cn: [wnacg](https://wnacg.org/albums.html) `descarga en terceros` | Mediano | {{a}} | [`ZH`] | {{a}} |
-  | :flag-cn: [18Cómic](https://18comic.vip/) `descarga` | Mediano | {{a}} | [`ZH`] | {{a}} |
-  | :flag-cn: [SekToon](https://sektoon5.org/) | Pequeño-mediano | {{a}} | [`ZH`] | {{a}} |
-  | :flag-kr: [Manamoa](https://manamoa29.net/) | Pequeño | {{a}} | Coreano | {{a}} |
+  | [Ex-Hentai](https://e-hentai.org/) `descarga` `.torrent` | Grandísimo | | [`EN`], [`ES`], [`JP`] y más | |
+  | [E-Hentai](https://e-hentai.org/) `descarga` `.torrent` | Grandísimo | | [`EN`], [`ES`], [`JP`] y más | |
+  | [hitomi](https://hitomi.la/) `descarga` | Grande | | [`EN`], [`ES`], [`JP`], coreano y más | |
+  | [nhentai](https://nhentai.net/) `descarga` | Grande | | [`EN`], [`ZH`] y [`JP`] | |
+  | [Iku Hentai](https://ikuhentai.net/) `descarga` | Mediano | | [`ES`] | |
+  | :flag-cn: [wnacg](https://wnacg.org/albums.html) `descarga en terceros` | Mediano | | [`ZH`] | |
+  | :flag-cn: [18Cómic](https://18comic.vip/) `descarga` | Mediano | | [`ZH`] | |
+  | :flag-cn: [SekToon](https://sektoon5.org/) | Pequeño-mediano | | [`ZH`] | |
+  | :flag-kr: [Manamoa](https://manamoa29.net/) | Pequeño | | Coreano | |
 
 - Webtoon
 
@@ -184,26 +184,26 @@ description: 'Directorio extenso de bibliotecas digitales y recursos en línea: 
       | [Lezhin Cómics](https://www.lezhin.com/en) | Webtoon | Sí | Primeros episodios son gratuitos/1 episodio por día en la sección gratuita |
       | :flag-kr: [comico](https://www.comico.jp/) | Webtoon y algunos mangas | Sí | Algunos son de pago |
       | [Tapas](https://tapas.io/) | Webtoon | Poco | Tendencia homosexual |
-      | :flag-kr: [Naver](https://comic.naver.com/index.nhn) | Webtoon y algunos cómics | No |
+      | :flag-kr: [Naver](https://comic.naver.com/index.nhn) | Webtoon y algunos cómics | No | |
 
     - :flag-kr: Terceros
 
       | Nombre | Contenido | Adulto | Publicidad |
       | --- | --- | --- | --- |
-      | [SpoWiki](https://spowiki20.com/bbs/board.php?bo_table=webtoon) | Webtoon | Sí | {{a}} |
-      | [WToon](https://wtoon39.com/) [1](https://nicelink10.com/) | Webtoon y manga | Sí | {{a}} |
-      | [newtoki](https://newtoki52.com/) | Webtoon y manga | Sí | {{a}} |
-      | [ToonKor](https://toonkor.tax/) | Webtoon y Fototoon | Sí | {{a}} |
-      | [Toon Sarang](https://toonsarang.help/) | Webtoon y fototoon | Sí | {{a}} |
-      | [Wolf](https://wfwf67.com/) | Webtoon, fototoon y manga | Sí | {{a}} |
-      | [MeToon](https://metoon17.com/) | Webtoon | Sí | {{a}} |
-      | [ntoon](https://www.ntoon20.com/) | Webtoon | Sí | {{a}} |
+      | [SpoWiki](https://spowiki20.com/bbs/board.php?bo_table=webtoon) | Webtoon | Sí | |
+      | [WToon](https://wtoon39.com/) [1](https://nicelink10.com/) | Webtoon y manga | Sí | |
+      | [newtoki](https://newtoki52.com/) | Webtoon y manga | Sí | |
+      | [ToonKor](https://toonkor.tax/) | Webtoon y Fototoon | Sí | |
+      | [Toon Sarang](https://toonsarang.help/) | Webtoon y fototoon | Sí | |
+      | [Wolf](https://wfwf67.com/) | Webtoon, fototoon y manga | Sí | |
+      | [MeToon](https://metoon17.com/) | Webtoon | Sí | |
+      | [ntoon](https://www.ntoon20.com/) | Webtoon | Sí | |
 
   - :flag-kr: Adulto
 
-    | Nombre                          | Contenido | Publicidad |
-    | ------------------------------- | --------- | ---------- |
-    | [Bidong](https://bidongmh.com/) | Webtoon   | {{a}}      |
+    | Nombre | Contenido | Publicidad |
+    | --- | --- | --- |
+    | [Bidong](https://bidongmh.com/) | Webtoon | |
 
 ## Revistas
 
@@ -225,6 +225,5 @@ description: 'Directorio extenso de bibliotecas digitales y recursos en línea: 
 | [NudeGirls4U](https://nudegirls4u.com/) | Varios meses | Xiuren, TuiGirl, MyGirl, MiiTao,+ | Sí/Sí (Google Drive y Mega) |
 | [CNSexy](https://cnsexy.top/) | Muchos meses y sin actualizaciones desde diciembre | Xiuren, Owakado, Partycat, Bololi, MyGirl,+ | Sí/No |
 | [uutu](http://www.uutu.me/) | Alrededor del 2019 | Xiuren, IMiss, HuaYang, Youmi, Mfstar, MyGirl,+ | Sí/No |
-|  |  |  |  |
 | :flag-cn: [mm131](https://www.mm131.net/) | Revistas desconocidas | XingGan, QingChun, Chemo, Qipao, MingXing, + | Sí/No |
 | :flag-cn: [mziba](https://www.mziba.cc/) `pago` | Al día | Xiuren, uGirl, YouMei, Huayang, PDL, Youmi, MyGirl, + | Sí/Sí |

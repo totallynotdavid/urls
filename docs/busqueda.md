@@ -99,7 +99,7 @@ description: 'Motores de búsqueda, Google dorks, metabuscadores, indexadores FT
 
 ### Libros en directorios públicos
 
-```
+```text
 -inurl:htm -inurl:html intitle:"index of" +("/ebooks"|"/book") +(chm|pdf|zip) +"NOMBRE DEL LIBRO"
 ```
 
@@ -110,11 +110,13 @@ description: 'Motores de búsqueda, Google dorks, metabuscadores, indexadores FT
 | Get the Font | EN | Buscador de tipografías en GitHub. | [Visitar](https://www.getthefont.com/) |
 
 Sintaxis para GitHub:
-```
+
+```text
 intitle: [NOMBRE DE LA TIPOGRAFÍA].ttf site:github.com
 ```
 
 Sintaxis para VK:
-```
+
+```text
 site:vk.com [Font name].ttf
 ```

@@ -152,7 +152,7 @@ Más recursos:
 | --- | --- | --- | --- |
 | [`JP`] [`+`] [waifu-2x-cafee](https://github.com/lltcggie/waifu2x-caffe) GUI | **Requerido: GPU Nvidia**.<br>Disponible en varios idiomas: Inglés, Japonés, Chino simplificado, Chino tradicional, Coreano, Turco, Español, Francés. | `Sí`, disponible en [Github](https://github.com/lltcggie/waifu2x-caffe) | Windows Vista o superior. |
 | [`EN`] [waifu2x ncnn vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) | El autor recomienda usar GPU de marca Intel, AMD o Nvidia. | | |
-| [`EN`] [waifu 2x, solo conversión](https://github.com/DeadSix27/waifu2x-converter-cpp) |  | | |
+| [`EN`] [waifu 2x, solo conversión](https://github.com/DeadSix27/waifu2x-converter-cpp) | | | |
 | [`EN`] [GUI](https://github.com/YukihoAA/waifu2x_snowshell) | Diferentes autores. | | |
 
 ### Búsqueda de tipografía
@@ -183,7 +183,7 @@ Más recursos:
 | Nombre | Características | Código abierto | Sistemas operativos |
 | --- | --- | --- | --- |
 | [FFmpeg](https://ffmpeg.org/) | Grabar, convertir y reproducir audio y video; entre otros. | `Sí`, disponible en [ffmpeg.org](https://git.ffmpeg.org/ffmpeg.git) | Windows, macOS, Linux |
-| AV Converter | Convierte archivos con FFmpeg en línea. | [Visitar](https://av-converter.com/) |
+| AV Converter | Convierte archivos con FFmpeg en línea. | [Visitar](https://av-converter.com/) | |
 | [HandBrake](https://handbrake.fr/) | Convierte videos de cualquier formato a casi cualquier formato.<br>Opciones preconfiguradas.<br>Formatos disponibles:<br>Contenedor de archivos: `.mp4` (`.m4v`) y `.mkv`.<br>Codificador de video: H.265 (x265 y QuickSync), H.264 (x264 y QuickSync), H.265 MPEG-4 y MPEG-2, VP8, VP9 y Theora.<br>Codificador de audio: `.aac`, `.he-aac`, `.mp3`, `.flac`, `.ac3` o Vorbis.<br>Adaptador de audio: `.ac-3`, `.e-ac3`, `.dts`, `.dts-hd`, TrueHD, `.aac` y pistas `.mp3`.<br>Subtítulos (VobSub, Closed Captions CEA-608, SSA, `.srt`).<br>Calidad constante o tasa de bits promedio del codificador del video.<br>Soporte para VFR y CFR.<br>Previsualización. | `Sí`, disponible en [Github](https://github.com/HandBrake/HandBrake) | Windows, macOS, Linux |
 
 ## Videojuegos
@@ -191,7 +191,7 @@ Más recursos:
 | Nombre | Características | Código abierto | Sistemas operativos |
 | --- | --- | --- | --- |
 | [Goldberg Steam Simulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) | Emulador de las funciones en línea de Steam en LAN. | `Sí`, disponible en [Gitlab](https://gitlab.com/Mr_Goldberg/goldberg_emulator) | Windows, macOS, Linux |
-| [Cream API](https://cs.rin.ru/forum/viewtopic.php?t=70576) | Desbloquear episodios descargables en Steam.<br>Funciona con todas las versiones conocidas de SteamApps (2 al 8).<br>Funciona con todas las versiones conocidas de SteamUser (9 al 20).<br>Funciona con videojuegos que hacen uso de `steamclient(64).dll`. |  |  |
+| [Cream API](https://cs.rin.ru/forum/viewtopic.php?t=70576) | Desbloquear episodios descargables en Steam.<br>Funciona con todas las versiones conocidas de SteamApps (2 al 8).<br>Funciona con todas las versiones conocidas de SteamUser (9 al 20).<br>Funciona con videojuegos que hacen uso de `steamclient(64).dll`. | | |
 
 # Descarga
 
@@ -307,7 +307,7 @@ Más recursos:
 | Nombre | Características | Protocolos |
 | --- | --- | --- |
 | [`EN`] [aria2](https://aria2.github.io/) | Multiconexión y multidescarga<br>Uso eficiente de espacio y recursos<br>Cliente Bittorrent<br>Metaenlaces activados: [The Metalink Download Description Format](http://tools.ietf.org/html/rfc5854) (aka Metalink v4), Metalink versión 3, [Metalink/HTTP](http://tools.ietf.org/html/rfc6249)<br>Control remoto: JSON-RPC (HTTP y WebSocket), XML-RPC | HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink |
-| [Vim Cheat Sheet](https://quickref.me/vim) | Guía rápida de Vim. | - | - |
+| [Vim Cheat Sheet](https://quickref.me/vim) | Guía rápida de Vim. | - |
 
 ## Mejora personal
 

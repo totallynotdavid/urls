@@ -7,7 +7,7 @@ description: 'Para enlaces que te harán decir: "¡Esto es justo lo que necesita
 
 | Nombre | Sitio | Enlace | Adicional |
 | --- | --- | --- | --- |
-| Bibliogram | Instagram | [Instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md) |  |
+| Bibliogram | Instagram | [Instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md) | |
 | Feeds Pub | RSS | [Visitar](https://feeds.pub/) | Lector minimalista. |
 | Privus Reader | RSS | [Visitar](https://privusreader.com/explore) | Requiere Blockstack. |
 | Russell's News | RSS | [Visitar](https://news.russellsaw.io/) | RSS estilo periódico del siglo XX. |

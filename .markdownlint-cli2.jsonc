@@ -3,6 +3,7 @@
         "default": true,
         "MD013": false,
         "MD024": false,
+        "MD025": false, // Pages use multiple top-level headings. Their titles come from front matter.
         "MD029": false, // This only works if you have a continuous list (p.s. we don't)
         "MD030": false,
         "MD033": false,

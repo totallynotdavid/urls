@@ -15,7 +15,7 @@ description: Software, videojuegos, imágenes, video y cine.
      - [Aplicaciones nativas](#aplicaciones-nativas)
        - [Bloqueo de publicidad](#bloqueo-de-publicidad)
        - [Multimedia](#multimedia)
-       - [Tienda de aplicaciones de Android](#tienda-de-aplicaciones-de-Android)
+       - [Tienda de aplicaciones de Android](#tienda-de-aplicaciones-para-android)
      - [Repositorios de aplicaciones en hospedaje de terceros](#repositorios-de-aplicaciones-en-hospedaje-de-terceros)
 3. [Video](#video)
    - [Cursos](#cursos)
@@ -29,14 +29,14 @@ description: Software, videojuegos, imágenes, video y cine.
        - [Animación](#animación)
        - [Dorama](#dorama)
    - [Pornografía](#pornografía)
-     - [Producción estadounidense y europea](#producción-estadounidense-y-europea)
+     - [Producción estadounidense y europea](#producción-estadounidense-y-europea-1)
      - [Producción japonesa](#producción-japonesa)
        - [Animación pornográfica](#animación-pornográfica)
        - [JAV](#jav)
-       - [Set de fotografía (legal)](<#set-de-fotografía-(legal)>)
+       - [Set de fotografía (legal)](#set-de-fotografía-legal)
      - [Producción surcoreana](#producción-surcoreana)
      - [Amateur asiático](#amateur-asiático)
-4. [Imágenes](#Imágenes)
+4. [Imágenes](#imágenes)
 
 # General
 
@@ -79,8 +79,8 @@ description: Software, videojuegos, imágenes, video y cine.
 
 | Nombre | Hospedaje | Categorías |
 | --- | --- | --- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="11"> [nsane.down](https://nsanedown.com/) `Windows` `25 mil` | Al autor | Controladores, compartir archivos, internet, multimedia, seguridad, sistema y otras aplicaciones |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="11"> [Get Into PC](https://getintopc.com/) `8130` | Propio (desactivar bloqueador de publicidad) | Aplicaciones en general (sistemas operativos, edición, multimedia, desarrollo web, herramientas, entre otros) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows" width="11"> [nsane.down](https://nsanedown.com/) `Windows` `25 mil` | Al autor | Controladores, compartir archivos, internet, multimedia, seguridad, sistema y otras aplicaciones |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows" width="11"> [Get Into PC](https://getintopc.com/) `8130` | Propio (desactivar bloqueador de publicidad) | Aplicaciones en general (sistemas operativos, edición, multimedia, desarrollo web, herramientas, entre otros) |
 | [AppNee Freeware Group](https://appnee.com/) `2674` | Al autor; Solewe, Usersdrive, entre otors | Sistemas operativos, seguridad, videojuegos, código fuente, profesional, multimedia, entre otros |
 | [haxNode](https://haxnode.com/) `1010` | Usersdrive, SnowFiles | Aplicaciones de Windows, Android y macOS |
 
@@ -112,11 +112,11 @@ description: Software, videojuegos, imágenes, video y cine.
 
 | Nombre | Reputación | Hospedaje | Nota |
 | --- | --- | --- | --- |
-| [GLOAD.cc](https://gload.cc/) | Desconocido (8350) | Zippyshare, Rapidgator, ddl.to |
+| [GLOAD.cc](https://gload.cc/) | Desconocido (8350) | Zippyshare, Rapidgator, ddl.to | |
 | [Ziperto](https://www.ziperto.com/) | Desconocido (7512) | Mega, Mediafire, Uptobox, 1fichier | Sin acortadores |
 | [Steam Underground Community](https://cs.rin.ru/forum/viewforum.php?f=22) | Confiable (7031) | Google Drive y MirrorRace | Inglés, español, ruso, entre otros |
-| [Cracked-Games](https://cracked-games.org/) | Confiable (3870) | Mega, Uploaded, MegaUp |
-| [Ova Games](https://www.ovagames.com/) | Confiable (3682) | Google Drive, Mega, Uptobox, Uploaded, Racaty |
+| [Cracked-Games](https://cracked-games.org/) | Confiable (3870) | Mega, Uploaded, MegaUp | |
+| [Ova Games](https://www.ovagames.com/) | Confiable (3682) | Google Drive, Mega, Uptobox, Uploaded, Racaty | |
 | [Crohasit](https://crohasit.net/) | Desconocido (1484) | UploadHeaven | Sin acortadores |
 | [Rihno Games](https://www.rihnogames.com/) | Confiable (680) | Nuevos: Propio y `.torrent` | Antiguos: Google Drive, Mega, Uptobox |
 
@@ -146,8 +146,8 @@ Entretenimiento
 | Nombre | Mínimo | Contenido | Sistema Operativo | Notas |
 | --- | --- | --- | --- | --- |
 | [ApolloTV](https://apollotv.xyz/)[1](https://github.com/ApolloTVofficial/kamino) | 4.3 y 8 | Películas y programas de televisión | Android y iOS | Sincronización con [Trakt](https://trakt.tv/); ver contenido en aplicaciones de terceros (VLC, etc); funciona con Chromecast y Real-Debrid |
-| [Kokotime](https://www.kokotime.tv/) | 4.1 | Películas y programas de televisión | Android | Reproductor nativo, subtítulos <img src="https://static.opensubtitles.org/gfx/logo.gif" width="37">, funciona con Chromecast |
-| [Viva](https://vivatv.io/) | 4.0? | Películas, programas de televisión y en vivo | Android, Amazon Fire TV y Fire Stick | Sincronización con [Trakt](https://trakt.tv/); subtítulos <img src="https://static.opensubtitles.org/gfx/logo.gif" width="37">; funciona con Real-debrid, Alldebrid y Premiumize |
+| [Kokotime](https://www.kokotime.tv/) | 4.1 | Películas y programas de televisión | Android | Reproductor nativo, subtítulos <img src="https://static.opensubtitles.org/gfx/logo.gif" alt="OpenSubtitles" width="37">, funciona con Chromecast |
+| [Viva](https://vivatv.io/) | 4.0? | Películas, programas de televisión y en vivo | Android, Amazon Fire TV y Fire Stick | Sincronización con [Trakt](https://trakt.tv/); subtítulos <img src="https://static.opensubtitles.org/gfx/logo.gif" alt="OpenSubtitles" width="37">; funciona con Real-debrid, Alldebrid y Premiumize |
 | [BeeTV](https://beetvapk.net/) | 4.0 | Películas y programas de televisión | Android y Firestick | Interfaz regular |
 
 </details>
@@ -193,7 +193,7 @@ Entretenimiento
 | Nombre | Aplicación | Hospedaje | Nota |
 | --- | --- | --- | --- |
 | [Android Zone](https://android-zone.ws/) | Original y modificado | UserUpload, Uploaded, entre otros (depende del usuario) | Foro |
-| [HIFI 2007](https://hifi2007reviews.com/) | Modificadas | Appbox, Solidfiles, Mega, PCloud |
+| [HIFI 2007](https://hifi2007reviews.com/) | Modificadas | Appbox, Solidfiles, Mega, PCloud | |
 
 # Imágenes
 
@@ -211,7 +211,7 @@ Entretenimiento
 
 | Nombre | Transmisión | Contenido | Subtítulos |
 | --- | --- | --- | --- |
-| [Daxiv](https://daxiv.com/) | Emisión en continuo | Cine y series de televisión estadounidenses, europeos y asiáticos; cine adulto surcoreano | En varios idiomas <img src="https://static.opensubtitles.org/gfx/logo.gif" width="39"> |
+| [Daxiv](https://daxiv.com/) | Emisión en continuo | Cine y series de televisión estadounidenses, europeos y asiáticos; cine adulto surcoreano | En varios idiomas <img src="https://static.opensubtitles.org/gfx/logo.gif" alt="OpenSubtitles" width="39"> |
 
 ## Cursos
 
@@ -245,8 +245,8 @@ Entretenimiento
 | [VideoSpider](https://videospider.in/) `indizador web` | Grandísimo | 480, 720, 1080 | Varía | 30 solicitudes por día usando IMDB |
 | [VIKV](https://vikv.net/) | 26100 | 720 | Inglés | Solo películas + asia |
 | [F2Movies](https://www2.f2movies.to/) [1](https://www1.moviesjoy.net/) [¿2?](https://fmovies2.io/) [¿3?](https://fmovies.wtf/) | 23392 películas, 6752 series | 480, 720, 1080 | Inglés, español, entre otros, a veces | Algunos enlaces están siendo actualizados |
-| [CineBloom](https://www.cinebloom.org/) | 22860 películas, 3000 series | 720 | Inglés y español |
-| [Putlocker](https://www.putlockers.cr/) | 21888 películas, 16288 series | 360, 480 | No |
+| [CineBloom](https://www.cinebloom.org/) | 22860 películas, 3000 series | 720 | Inglés y español | |
+| [Putlocker](https://www.putlockers.cr/) | 21888 películas, 16288 series | 360, 480 | No | |
 | [MovieGaga](https://moviegaga.to/) | 21672 películas, 12240 series | 480, 720, 1080 | Inglés | Películas, series, incluso antiguas |
 | [Yes!Movies](https://yesmovies.ag/) [1](https://www1.yesmovies.movie/) [¿2?](https://www1.solarmovie.to/) | 19480 películas, 7800 series | 360, 720 | No, inglés | +Asia |
 | [EuroPixHD](https://europixhd.io/) | 13800 películas, 1600 series | 720 | Inglés | +Bollywood |
@@ -264,21 +264,21 @@ Entretenimiento
    <details>
       <summary>--->IRC</summary>
 
-| Red                               | Canal      |
-| --------------------------------- | ---------- | --------- |
-| [SceneP2P](https://scenep2p.net/) | THE.SOURCE |
-| [Abjects](https://abjects.net/)   | BEAST-XDCC | MOVIEGODS |
+| Red | Canal | |
+| --- | --- | --- |
+| [SceneP2P](https://scenep2p.net/) | THE.SOURCE | |
+| [Abjects](https://abjects.net/) | BEAST-XDCC | MOVIEGODS |
 
   </details>
   
   <details>
        <summary>--->Servidor</summary>
   
-  Nombre|Contenido|Librería|Calidad|Hospedaje
-  ------|---------|--------|-------|---------
-  [Snahp](https://snahp.it/)|Películas, series (también animación japonesa)|15760 películas, 4180 series|1080, 2160|Zippyshare, FileDecrypt
-  [GDriveDL](https://gdrivedl.xyz/)|Películas (sin actualizaciones desde 2019)|784|1080, 2160|Google Drive
-  [GDMovies](https://gdmovies.info/)|Películas y series (**Caído**)|Desconocido|720, 1080|Google Drive
+| Nombre | Contenido | Librería | Calidad | Hospedaje |
+| --- | --- | --- | --- | --- |
+| [Snahp](https://snahp.it/) | Películas, series (también animación japonesa) | 15760 películas, 4180 series | 1080, 2160 | Zippyshare, FileDecrypt |
+| [GDriveDL](https://gdrivedl.xyz/) | Películas (sin actualizaciones desde 2019) | 784 | 1080, 2160 | Google Drive |
+| [GDMovies](https://gdmovies.info/) | Películas y series (**Caído**) | Desconocido | 720, 1080 | Google Drive |
   
   </details>
   
@@ -325,7 +325,7 @@ Entretenimiento
 | [Afdah](https://afdah.info/) | 23880 películas | 480, 720, 1080 | Inglés | Cine antiguo |
 | [AZMovies](https://azm.to/) | 5053 películas | 720, 1080 | No | Cine antiguo |
 | [elitestream](https://www.elitestream.io/) | 4381 películas | 480, 720 | Español y doblaje :flag-es: :flag-mx: | Doblaje latina y castellana |
-| [FlixGo](https://flixgo.biz/) | 2112 películas y 44 series | 480, 720 | No |
+| [FlixGo](https://flixgo.biz/) | 2112 películas y 44 series | 480, 720 | No | |
 
 </details>
 
@@ -393,20 +393,20 @@ Entretenimiento
 
 | Nombre | Librería | Calidad | Interfaz | Doblaje |
 | --- | --- | --- | --- | --- |
-| [9anime](https://9anime.ru/) | 10890 | 480, 720, 1080 | {{9}}/{{10}} | Inglés |
-| [KissAnime](https://kissanime.ru/) [1](https://kissanime.ac/) | 9900 | 720,1080 (antiguos sin calidad) | {{4}}/{{10}} | Sí |
-| [KickAssAnime](https://www.kickassanime.rs/) | 6000 | 480,720,1080 (antiguos sin calidad) | {{5}}/{{10}} | Sí |
-| [AnimeKisa](https://animekisa.tv/) | 4535 series, 1268 películas | 480,720,1080 (antiguos sin calidad) | {{6}}/{{10}} | Inglés (1987) |
-| [animepahe](https://animepahe.com/) | 3384 | 480,720,1080 | {{9}}/{{10}} | No |
-| [animeultima](https://animeultima.eu/), [Animeflix](https://animeflix.io/) | 2453 | 480,720,1080 | {{9}}/{{10}} | Inglés |
-| [Animetake](https://animetake.tv/) | 2293 | 480,720 | {{6}}/{{10}} | No |
-| :flag-de: [Aniwatch](https://aniwatch.me/) | 2109 | 480,720,1080 | {{8}}/{{10}} | No |
-| [Anime Twist](https://twist.moe/) | 1558 | 480,720 | {{10}}/{{10}} | No |
-| [4Anime](https://4anime.to/) | 1316 | 480,720 | {{9}}/{{10}} | No |
-| [DarkAnime](https://darkanime.stream/) | 1200 | 480,720 | {{7}}/{{10}} | Sí |
-| [Anime Daisuki](https://animedaisuki.moe/), [1 AnimeDao](https://animedao.com/) | 720 | 480,720 | {{7}}/{{10}} | No |
-| [Anime Fever](https://www.animefever.tv/) | 674 | 480,720 | {{7}}/{{10}} | No |
-| [Animelon](https://animelon.com/) | 278 | 480,720,1080 | {{5}}/{{10}} | No |
+| [9anime](https://9anime.ru/) | 10890 | 480, 720, 1080 | 9/10 | Inglés |
+| [KissAnime](https://kissanime.ru/) [1](https://kissanime.ac/) | 9900 | 720,1080 (antiguos sin calidad) | 4/10 | Sí |
+| [KickAssAnime](https://www.kickassanime.rs/) | 6000 | 480,720,1080 (antiguos sin calidad) | 5/10 | Sí |
+| [AnimeKisa](https://animekisa.tv/) | 4535 series, 1268 películas | 480,720,1080 (antiguos sin calidad) | 6/10 | Inglés (1987) |
+| [animepahe](https://animepahe.com/) | 3384 | 480,720,1080 | 9/10 | No |
+| [animeultima](https://animeultima.eu/), [Animeflix](https://animeflix.io/) | 2453 | 480,720,1080 | 9/10 | Inglés |
+| [Animetake](https://animetake.tv/) | 2293 | 480,720 | 6/10 | No |
+| :flag-de: [Aniwatch](https://aniwatch.me/) | 2109 | 480,720,1080 | 8/10 | No |
+| [Anime Twist](https://twist.moe/) | 1558 | 480,720 | 10/10 | No |
+| [4Anime](https://4anime.to/) | 1316 | 480,720 | 9/10 | No |
+| [DarkAnime](https://darkanime.stream/) | 1200 | 480,720 | 7/10 | Sí |
+| [Anime Daisuki](https://animedaisuki.moe/), [1 AnimeDao](https://animedao.com/) | 720 | 480,720 | 7/10 | No |
+| [Anime Fever](https://www.animefever.tv/) | 674 | 480,720 | 7/10 | No |
+| [Animelon](https://animelon.com/) | 278 | 480,720,1080 | 5/10 | No |
 
 </details>
 
@@ -436,7 +436,7 @@ Entretenimiento
 | Nombre | Librería | Calidad | Hospedaje | Nota |
 | --- | --- | --- | --- | --- |
 | [AnimeKayo](https://animekayo.com/) | 2314 series, 472 películas | 480, 720, 1080 | Google Drive | Contiene algunos doblajes |
-| [Anime Kaizoku](https://animekaizoku.com/) | 1458 series, 312 películas | 480, 720, 1080 | Google Drive, OneDrive |
+| [Anime Kaizoku](https://animekaizoku.com/) | 1458 series, 312 películas | 480, 720, 1080 | Google Drive, OneDrive | |
 
 </details>
 
@@ -444,9 +444,9 @@ Entretenimiento
 
 | Nombre | Librería | Calidad | Interfaz |
 | --- | --- | --- | --- |
-| [Dramacool](https://www1.dramacool.movie/) | Mediano | 360, 720, 1080 | {{5}}/{{10}} |
-| [DramaFast](https://dramafast.com/) | Mediano | 360, 720 | {{6}}/{{10}} |
-| [Daebak Drama](http://daebakdrama.com/) | Mediano | 720 | {{4}}/{{10}} |
+| [Dramacool](https://www1.dramacool.movie/) | Mediano | 360, 720, 1080 | 5/10 |
+| [DramaFast](https://dramafast.com/) | Mediano | 360, 720 | 6/10 |
+| [Daebak Drama](http://daebakdrama.com/) | Mediano | 720 | 4/10 |
 
 ## Pornografía
 
@@ -459,14 +459,14 @@ Entretenimiento
 
 | Contenido | Sitios | Servidor | Nota |
 | --- | --- | --- | --- |
-| Celebridad (foto y video) | Recolección | imx.to |
-| Set de fotografías | Met-Art, SuicideGirls, Femjoy, Hegre-Art, ATK, entre otros | Uploaded, Rapidgator, Turbobit, Keep2Share |
+| Celebridad (foto y video) | Recolección | imx.to | |
+| Set de fotografías | Met-Art, SuicideGirls, Femjoy, Hegre-Art, ATK, entre otros | Uploaded, Rapidgator, Turbobit, Keep2Share | |
 | Set de fotografías | "Escena" | imx.to | Keep2Share |
 | Pornografía | "Escena" | Keep2Share | Calidad: 720, 1080, 2160 |
-| Revistas | - | Uploaded, Rapidgator |
-| Hentai subtitulado y doblado al inglés (OVA y videojuego) | Popular | Keep2Share, Filesmonter (`150kbps`) |
-| Videojuegos 3D | Popular | Keep2share, Rapidgator, Uploaded |
-| Cómic | Popular | Uploaded, Rapidgator |
+| Revistas | - | Uploaded, Rapidgator | |
+| Hentai subtitulado y doblado al inglés (OVA y videojuego) | Popular | Keep2Share, Filesmonter (`150kbps`) | |
+| Videojuegos 3D | Popular | Keep2share, Rapidgator, Uploaded | |
+| Cómic | Popular | Uploaded, Rapidgator | |
 
 `Posee más categorías`
 
@@ -483,9 +483,9 @@ Entretenimiento
 
 #### Transmisión
 
-| Nombre                                 | Librería       | Calidad | Servidor |
-| -------------------------------------- | -------------- | ------- | -------- |
-| [PornHoarder](https://pornhoarder.tv/) | 720 000 vídeos | 720     |
+| Nombre | Librería | Calidad | Servidor |
+| --- | --- | --- | --- |
+| [PornHoarder](https://pornhoarder.tv/) | 720 000 vídeos | 720 | |
 
 <details>
    <summary>P2P (.torrent)</summary>
@@ -521,10 +521,10 @@ Entretenimiento
 
 | Nombre | Contenido | Censura | Interfaz |
 | --- | --- | --- | --- |
-| [Sukebei](https://sukebei.nyaa.si/) | JAV, animación, doujinshi, eroge | Sí/No | {{5}}/{{10}} |
-| [Sukebei Pantsu](https://sukebei.nyaa.net/) | JAV, animación, doujinshi, eroge | Sí/No | {{6}}/{{10}} |
-| :flag-jp: [SiS001!](https://sis001.com/forum/index.php) `foro` | JAV, animación, amateur | Sí/No | {{3}}/{{10}} |
-| :flag-jp: [mwzjlt23](https://mwzjlt23.net/forum.php) `foro` | JAV, animación, amateur | Sí/No | {{3}}/{{10}} |
+| [Sukebei](https://sukebei.nyaa.si/) | JAV, animación, doujinshi, eroge | Sí/No | 5/10 |
+| [Sukebei Pantsu](https://sukebei.nyaa.net/) | JAV, animación, doujinshi, eroge | Sí/No | 6/10 |
+| :flag-jp: [SiS001!](https://sis001.com/forum/index.php) `foro` | JAV, animación, amateur | Sí/No | 3/10 |
+| :flag-jp: [mwzjlt23](https://mwzjlt23.net/forum.php) `foro` | JAV, animación, amateur | Sí/No | 3/10 |
 
 </details>
 
@@ -533,10 +533,10 @@ Entretenimiento
 
 | Nombre | Contenido | Censura | Calidad | Interfaz |
 | --- | --- | --- | --- | --- |
-| :flag-cn: [AVbebe](https://avbebe.com/) | JAV, hentai, manga, doujinshi, set de fotografía amateur | Sí/No | 480, 720 | {{7}}/{{10}} |
-| :flag-cn: [AVgigi](https://avgigi.com/) | JAV, hentai, doujin, set de fotografía cosplay y amateur | Sí/No | 480, 720, 1080 | {{5}}/{{10}} |
-| [GGJAV](https://ggjav.com/) | JAV, hentai, [reconocimiento facial de actrices de JAV](https://ggjav.com/main/recognize_pornstar) | Sí/No | 480,720,1080 | {{6}}/{{10}} |
-| :flag-cn: [Cherry](https://yt232.com/#/home) [1](https://github.com/avyingtao/dz/blob/master/README.md?main) | JAV, BJ surcoreanas, amateur | Sí/No | 480 (720 de pago) | {{5}}/{{10}} |
+| :flag-cn: [AVbebe](https://avbebe.com/) | JAV, hentai, manga, doujinshi, set de fotografía amateur | Sí/No | 480, 720 | 7/10 |
+| :flag-cn: [AVgigi](https://avgigi.com/) | JAV, hentai, doujin, set de fotografía cosplay y amateur | Sí/No | 480, 720, 1080 | 5/10 |
+| [GGJAV](https://ggjav.com/) | JAV, hentai, [reconocimiento facial de actrices de JAV](https://ggjav.com/main/recognize_pornstar) | Sí/No | 480,720,1080 | 6/10 |
+| :flag-cn: [Cherry](https://yt232.com/#/home) [1](https://github.com/avyingtao/dz/blob/master/README.md?main) | JAV, BJ surcoreanas, amateur | Sí/No | 480 (720 de pago) | 5/10 |
 
 </details>
 
@@ -558,18 +558,18 @@ Entretenimiento
    <details>
    <summary>Legal (interfaz en inglés)</summary>
   
-   Nombre|Descripción|Censura|Interfaz|Compañía
-   ------|-----------|-------|--------|--------
-   [R18](https://www.r18.com/)|Sitio más grande de contenido adulto|Sí|{{7}}/{{10}}|R18
-   [After School](https://www.afterschool.jp/en/)|Temática: estudiante japonesa|Sí|{{7}}/{{10}}|Tsunami-Cash
-   [10Musume](https://www.10musume.com/)|Producción "amateur"|Sí|{{8}}/{{10}}|Dreamroom
-   [Zenra](https://zenra.net/)|JAV de varios estudios subtitulado en inglés (sección gratuita)|Sí/No|{{9}}/{{10}}|Provideniya
-   [1pondo.tv](https://en.1pondo.tv/)|Producción sin censura|Sí/No|{{10}}/{{10}}|Dreamroom
-   [Caribbeancom](https://en.caribbeancom.com/eng/index2.htm)|Productora más conocida sin censura|No|{{6}}/{{10}}|Dreamroom
-   [CovertJapan](https://www.covertjapan.com/en/)|Producción extranjera con actrices "amateur" japonesas|No|{{7}}/{{10}}|CovertJapan
-   [JPornAccess](https://jpornaccess.com/)|El estudio más grande sin censura|No|{{5}}/{{10}}|Dreamroom
-   [nanairo](https://nanairo.co/ja/)|Grabado en cuartos de hotel con buena iluminación|No|{{10}}/{{10}}|S-Cute
-   :flag-jp:[SOD](https://ec.sod.co.jp/prime/sod_free/)|JAV de los 90 y 2000|Sí|{{6}}/{{10}}|SOD
+| Nombre | Descripción | Censura | Interfaz | Compañía |
+| --- | --- | --- | --- | --- |
+| [R18](https://www.r18.com/) | Sitio más grande de contenido adulto | Sí | 7/10 | R18 |
+| [After School](https://www.afterschool.jp/en/) | Temática: estudiante japonesa | Sí | 7/10 | Tsunami-Cash |
+| [10Musume](https://www.10musume.com/) | Producción "amateur" | Sí | 8/10 | Dreamroom |
+| [Zenra](https://zenra.net/) | JAV de varios estudios subtitulado en inglés (sección gratuita) | Sí/No | 9/10 | Provideniya |
+| [1pondo.tv](https://en.1pondo.tv/) | Producción sin censura | Sí/No | 10/10 | Dreamroom |
+| [Caribbeancom](https://en.caribbeancom.com/eng/index2.htm) | Productora más conocida sin censura | No | 6/10 | Dreamroom |
+| [CovertJapan](https://www.covertjapan.com/en/) | Producción extranjera con actrices "amateur" japonesas | No | 7/10 | CovertJapan |
+| [JPornAccess](https://jpornaccess.com/) | El estudio más grande sin censura | No | 5/10 | Dreamroom |
+| [nanairo](https://nanairo.co/ja/) | Grabado en cuartos de hotel con buena iluminación | No | 10/10 | S-Cute |
+| :flag-jp: [SOD](https://ec.sod.co.jp/prime/sod_free/) | JAV de los 90 y 2000 | Sí | 6/10 | SOD |
 
    </details>
 
@@ -578,16 +578,16 @@ Entretenimiento
 
 | Nombre | Censura | Interfaz | Calidad | Nota |
 | --- | --- | --- | --- | --- |
-| :flag-cn: [Netflav](https://netflav.com/) | Sí/No | {{10}}/{{10}} | 480,720 | Descarga + `.torrent` |
-| :flag-cn: [Jable](https://jable.tv/) [1](https://fs1.app/) | Sí | {{9}}/{{10}} | 720, 1080 | [En caso de caída](https://github.com/aj23koby4495612/aj23koby4495612) |
-| [JavFinder](https://javfinder.la/) [1](https://jav.sh/) | Sí/No | {{5}}/{{10}} | 480, 720, 1080 | Actualización constante, descarga |
-| [Jav Guru](https://jav.guru/) | Sí/No | {{5}}/{{10}} | 480, 720 | Algunos episodios subtitulados |
-| [JAVMovs](https://javmovs.com/) | Sí | {{7}}/{{10}} | 480,720,1080 | Descarga, filtro por estudio |
-| [Agzi](https://agzy1.com/#/index) [1](https://agzy4.com/#/index) | Sí/No | {{6}}/{{10}} | 480,720 | Estudios Caribbean, Honzo, 1Pondo entre otros |
-| [AV01](https://www.av01.tv/) | Sí | {{6}}/{{10}} | 720, 1080 | [En caso de caída](https://github.com/av01tv/url), miniatura en el reproductor |
-| [HPJAV](https://hpjav.tv/) | Sí/No | {{5}}/{{10}} | 480,720,1080 | Descarga |
-| [JAV-tc](https://javtc.tv/) | Sí/No | {{5}}/{{10}} | 480,720,1080 | Algunos se pueden descargar |
-| [TW DVD](http://twdvd.com/video/) [1](https://oursogo.com/adult.html) | Sí/No | {{5}}/{{10}} | 480,720 | Pornografía occidental |
+| :flag-cn: [Netflav](https://netflav.com/) | Sí/No | 10/10 | 480,720 | Descarga + `.torrent` |
+| :flag-cn: [Jable](https://jable.tv/) [1](https://fs1.app/) | Sí | 9/10 | 720, 1080 | [En caso de caída](https://github.com/aj23koby4495612/aj23koby4495612) |
+| [JavFinder](https://javfinder.la/) [1](https://jav.sh/) | Sí/No | 5/10 | 480, 720, 1080 | Actualización constante, descarga |
+| [Jav Guru](https://jav.guru/) | Sí/No | 5/10 | 480, 720 | Algunos episodios subtitulados |
+| [JAVMovs](https://javmovs.com/) | Sí | 7/10 | 480,720,1080 | Descarga, filtro por estudio |
+| [Agzi](https://agzy1.com/#/index) [1](https://agzy4.com/#/index) | Sí/No | 6/10 | 480,720 | Estudios Caribbean, Honzo, 1Pondo entre otros |
+| [AV01](https://www.av01.tv/) | Sí | 6/10 | 720, 1080 | [En caso de caída](https://github.com/av01tv/url), miniatura en el reproductor |
+| [HPJAV](https://hpjav.tv/) | Sí/No | 5/10 | 480,720,1080 | Descarga |
+| [JAV-tc](https://javtc.tv/) | Sí/No | 5/10 | 480,720,1080 | Algunos se pueden descargar |
+| [TW DVD](http://twdvd.com/video/) [1](https://oursogo.com/adult.html) | Sí/No | 5/10 | 480,720 | Pornografía occidental |
 
    </details>
 </details>
@@ -597,11 +597,11 @@ Entretenimiento
 
 | Nombre | Censura | Calidad | Interfaz |
 | --- | --- | --- | --- |
-| [JAVJunkies](https://www.javbus.com/en) | Sí | 720, 1080 | {6}}/{{10}} |
-| [OneJAV](https://onejav.com/) | Sí | 720,1080 | {{9}}/{{10}} |
-| [JavBus](https://www.javbus.com/en) | Sí/No | 480, 720 | {{8}}/{{10}} |
-| [Jav Torrent](https://javzt.blogspot.com/) | No | 720 | {{5}}/{{10}} |
-| [SekTorrent](https://sektorrent5.org/) | Sí/No | Desconocido | {{5}}/{{10}} |
+| [JAVJunkies](https://www.javbus.com/en) | Sí | 720, 1080 | 6/10 |
+| [OneJAV](https://onejav.com/) | Sí | 720,1080 | 9/10 |
+| [JavBus](https://www.javbus.com/en) | Sí/No | 480, 720 | 8/10 |
+| [Jav Torrent](https://javzt.blogspot.com/) | No | 720 | 5/10 |
+| [SekTorrent](https://sektorrent5.org/) | Sí/No | Desconocido | 5/10 |
 
 </details>
 
@@ -609,8 +609,8 @@ Entretenimiento
 
 | Nombre | Descripción | Compañía | Interfaz |
 | --- | --- | --- | --- |
-| [GirlsDelta](https://girlsdelta.com/main) | Set de fotografía y video pornográfico suave (jóvenes amateur) | GIRLS DELTA (extranjero) | {{8}}/{{10}} |
-| [TOKYODOLL](https://www.tokyodoll.tv/) | Set de fotografía pornográfico suave de modelos occidentales | TDK | {{9}}/{{10}} |
+| [GirlsDelta](https://girlsdelta.com/main) | Set de fotografía y video pornográfico suave (jóvenes amateur) | GIRLS DELTA (extranjero) | 8/10 |
+| [TOKYODOLL](https://www.tokyodoll.tv/) | Set de fotografía pornográfico suave de modelos occidentales | TDK | 9/10 |
 
 ### Producción surcoreana
 
