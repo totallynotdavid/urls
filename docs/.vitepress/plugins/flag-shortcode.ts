@@ -1,14 +1,17 @@
+import { existsSync } from 'node:fs'
 import type MarkdownIt from 'markdown-it-async'
+
+const flagsDir = new URL('../../public/flags/', import.meta.url)
 
 // `:flag-xx:` → <img class="flag" src="/flags/xx.svg" ...>.
 // VitePress applies the site `base` to the root-absolute path at HTML time.
-// Unknown codes pass through as literal text (`:flag-zz:`).
+// A code without a matching `docs/public/flags/xx.svg` remains literal text.
 export default function flagShortcode(md: MarkdownIt) {
     md.inline.ruler.after('emphasis', 'flag', (state, silent) => {
-        const re = /:flag-([a-z]{2}):/g
+        const re = /:flag-([a-z]{2}):/y
         re.lastIndex = state.pos
         const m = re.exec(state.src)
-        if (!m || m.index !== state.pos) return false
+        if (!m || !existsSync(new URL(`${m[1]}.svg`, flagsDir))) return false
         if (silent) return true
         state.push('flag', '', 0).content = m[1]
         state.pos += m[0].length
