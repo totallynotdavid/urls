@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
-import flagShortcode from './plugins/flag-shortcode'
+import { categories } from './categories.ts'
+import flagShortcode from './plugins/flag-shortcode.ts'
 
 export default defineConfig({
     title: 'Galaxia',
@@ -8,7 +9,12 @@ export default defineConfig({
     base: '/urls/',
     lastUpdated: true,
     cleanUrls: true,
-    ignoreDeadLinks: true,
+
+    transformPageData(pageData) {
+        if (pageData.relativePath === 'index.md') {
+            pageData.frontmatter.features = categories
+        }
+    },
 
     markdown: {
         headers: { level: [2, 3] },
@@ -39,20 +45,7 @@ export default defineConfig({
                 },
                 {
                     text: 'Categorías',
-                    items: [
-                        { text: 'Base de datos', link: '/basededatos' },
-                        { text: 'Biblioteca', link: '/biblioteca' },
-                        { text: 'Búsqueda', link: '/busqueda' },
-                        { text: 'Canales', link: '/canales' },
-                        { text: 'Discoteca', link: '/discoteca' },
-                        { text: 'Diseño', link: '/diseno' },
-                        { text: 'Herramientas', link: '/herramienta' },
-                        { text: 'Mediateca', link: '/mediateca' },
-                        { text: 'Pasatiempo', link: '/pasatiempo' },
-                        { text: 'Piratería', link: '/pirateria' },
-                        { text: 'Software', link: '/software' },
-                        { text: 'Utilidades', link: '/utilidades' }
-                    ]
+                    items: categories.map(({ title, link }) => ({ text: title, link }))
                 }
             ]
         },
