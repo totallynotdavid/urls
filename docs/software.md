@@ -3,7 +3,7 @@ title: Software
 description: Selección y recomendación de software y extensiones para mejorar tu experiencia.
 ---
 
-## Sofware
+## Software
 
 ### Activador
 
@@ -14,8 +14,8 @@ description: Selección y recomendación de software y extensiones para mejorar 
 #### Importantes
 
 - **uBlock Origin** ([Github](https://github.com/gorhill/uBlock)): Bloquear anuncios.
-- **Bitwarden** ([Chromium](https://chrome.google.com/webstore/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip?hl=en), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/clickbait-remover-for-youtube/)): Administrador de contraseñas.
-- **Clickbait Remover for Youtube** ([Chromium](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb?hl=en), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)): Quitar miniaturas personalizadas de Youtube.
+- **Bitwarden** ([Chromium](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb?hl=en), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)): Administrador de contraseñas.
+- **Clickbait Remover for Youtube** ([Chromium](https://chrome.google.com/webstore/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip?hl=en), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/clickbait-remover-for-youtube/)): Quitar miniaturas personalizadas de Youtube.
 - **Dark Reader** ([Chromium](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)): Modo oscuro para casi todas las páginas.
 - **Tampermonkey** ([Chromium](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)): Ejecuta scripts externos.
   - _adLBypasser_ ([Script](https://greasyfork.org/en/scripts/439469-adlbypasser-v1-6-ouo-io-uii-io-exe-io-bc-vc-adf-ly-more-no-ads)): Saltar acortadores.
