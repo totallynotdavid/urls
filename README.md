@@ -1,30 +1,47 @@
 # Galaxia
 
-<p align="center">
-    <img src="https://i.imgur.com/bKC4xJd.png" alt="Galaxia" width="450">
-    <br>
-     <a href="notes/basededatos.md">Base de datos</a> X |
-     <a href="notes/biblioteca.md">Biblioteca</a> X |
-     <a href="notes/busqueda.md">Búsqueda</a> |
-     <a href="notes/directoriopublico.md">Directorio público</a> X |
-     <a href="notes/discoteca.md">Discoteca</a> |
-     <a href="notes/herramienta.md">Herramientas</a> X |
-     <a href="notes/mediateca.md">Mediateca</a> X |
-     <a href="notes/pasatiempo.md">Pasatiempo</a> |
-     <a href="notes/pirateria.md">Piratería</a> |
-     <a href="notes/utilidades.md">Utilidades</a>
-    <br>
-</p>
+Galaxia es una colección de enlaces de Internet organizados por categoría, con
+anotaciones sobre su uso práctico. Es para quien busca una herramienta, una
+biblioteca digital o un recurso concreto y prefiere una lista curada a un
+buscador.
 
----
+El sitio solo enlaza: no aloja archivos. Se publica en
+<https://totallynotdavid.github.io/urls/>.
 
-| Publicación y CI | Calidad del código | Estado de los enlaces |
-| --- | --- | --- |
-| [![Deploy to GH Pages](https://github.com/totallynotdavid/galaxia/actions/workflows/publish.yml/badge.svg)](https://github.com/totallynotdavid/galaxia/actions/workflows/publish.yml) | [![URL Health Check](https://github.com/totallynotdavid/galaxia/actions/workflows/404.yml/badge.svg)](https://github.com/totallynotdavid/galaxia/actions/workflows/404.yml) | [![Lighthouse Audit](https://github.com/totallynotdavid/galaxia/actions/workflows/audit-lighthouse.yml/badge.svg)](https://github.com/totallynotdavid/galaxia/actions/workflows/audit-lighthouse.yml) |
+## Ejecutar el sitio en local
 
----
+Necesitas [Bun](https://bun.sh) 1.3.14 (`mise install` lo instala desde
+[`mise.toml`](mise.toml)).
 
-## GLOSARIO
+```sh
+bun install
+bun run dev
+```
 
-- **General** significa que aquel sitio o aplicación provee soporte para varios sitios o archivos.
-- **Transmisión general** significa que aquel sitio provee alguna forma de contenido en emisión en continuo y alguna forma de descarga, ya sea a través de servidores de terceros o a través de una red entre pares.
+El sitio queda en <http://localhost:5173/urls/>.
+
+## Una entrada
+
+Cada categoría es una página Markdown de [`docs/`](docs/). Una entrada típica es
+una fila de tabla (de [`docs/diseno.md`](docs/diseno.md)):
+
+```md
+| Nombre              | Características                  | Enlace                                          |
+| ------------------- | -------------------------------- | ----------------------------------------------- |
+| Finsweet LottieFlow | Animaciones gratuitas y simples. | [Visitar](https://www.finsweet.com/lottieflow/) |
+```
+
+## Qué incluye
+
+- Una página por categoría. El
+  [índice del sitio](https://totallynotdavid.github.io/urls/) las lista y define
+  los términos que usan las notas.
+- Búsqueda local en todas las páginas.
+- Banderas de país con el atajo `:flag-xx:`, descrito en
+  [CONTRIBUTING.md](.github/CONTRIBUTING.md#idioma-y-etiquetas).
+
+## Más información
+
+- Para añadir o corregir un enlace, ver
+  [CONTRIBUTING.md](.github/CONTRIBUTING.md).
+- Licencia: [CC0 1.0](LICENSE).
