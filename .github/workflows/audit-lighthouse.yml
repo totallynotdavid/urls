@@ -5,8 +5,9 @@ on:
     push:
         branches: [master]
         paths:
-            - '/docs/**'
-            - '/.github/workflows/audit-lighthouse.yml'
+            - 'docs/**'
+            - '.github/budget.json'
+            - '.github/workflows/audit-lighthouse.yml'
 
 jobs:
     lighthouse:

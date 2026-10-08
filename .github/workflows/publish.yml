@@ -4,10 +4,10 @@ on:
     push:
         branches: ['master']
         paths:
-            - '/docs/**'
-            - '/.github/workflows/publish.yml'
-            - '/package.json'
-            - '/bun.lock'
+            - 'docs/**'
+            - '.github/workflows/publish.yml'
+            - 'package.json'
+            - 'bun.lock'
     workflow_dispatch:
 
 permissions:
