@@ -1,20 +1,15 @@
 {
-    "private": true,
-    "type": "module",
-    "scripts": {
-        "dev": "vitepress dev docs",
-        "dev:lan": "vitepress dev docs --host 0.0.0.0",
-        "build": "vitepress build docs",
-        "preview": "vitepress preview docs",
-        "lint": "markdownlint-cli2 \"*.md\" \".github/*.md\" \"docs/**/*.md\""
-    },
-    "devDependencies": {
-        "@types/markdown-it": "^14.2.0",
-        "markdown-it-async": "^2.2.0",
-        "markdownlint-cli2": "^0.23.3",
-        "vitepress": "2.0.0-alpha.20",
-        "vue": "^3.5.43"
-    },
-    "author": "totallynotdavid",
-    "license": "ISC"
+  "private": true,
+  "license": "ISC",
+  "author": "totallynotdavid",
+  "type": "module",
+  "devDependencies": {
+    "@types/markdown-it": "^14.2.0",
+    "markdown-it-async": "^2.2.0",
+    "markdownlint-cli2": "^0.23.3",
+    "oxfmt": "^0.73.0",
+    "oxlint": "^1.88.0",
+    "vitepress": "2.0.0-alpha.20",
+    "vue": "^3.5.43"
+  }
 }
