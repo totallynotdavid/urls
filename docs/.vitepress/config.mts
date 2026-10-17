@@ -24,16 +24,6 @@ export default defineConfig({
     },
   },
 
-  locales: {
-    es: {
-      label: "Español",
-      lang: "es-ES",
-      themeConfig: {
-        nav: [{ text: "Inicio", link: "/" }],
-      },
-    },
-  },
-
   themeConfig: {
     logo: { src: "/favicon.png", alt: "Galaxia" },
     siteTitle: "Galaxia",
@@ -71,7 +61,6 @@ export default defineConfig({
     darkModeSwitchLabel: "Apariencia",
     lightModeSwitchTitle: "Cambiar a tema claro",
     darkModeSwitchTitle: "Cambiar a tema oscuro",
-    langMenuLabel: "Cambiar idioma",
 
     docFooter: {
       prev: "Anterior",
