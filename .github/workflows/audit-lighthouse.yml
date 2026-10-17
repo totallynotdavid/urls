@@ -1,27 +1,27 @@
 name: User Experience Audit
 
 on:
-    workflow_dispatch:
-    push:
-        branches: [master]
-        paths:
-            - 'docs/**'
-            - '.github/budget.json'
-            - '.github/workflows/audit-lighthouse.yml'
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - "docs/**"
+      - ".github/budget.json"
+      - ".github/workflows/audit-lighthouse.yml"
 
 jobs:
-    lighthouse:
-        name: User Experience Audit
-        runs-on: ubuntu-latest
+  lighthouse:
+    name: User Experience Audit
+    runs-on: ubuntu-latest
 
-        steps:
-            - uses: actions/checkout@v4
+    steps:
+      - uses: actions/checkout@v4
 
-            - uses: treosh/lighthouse-ci-action@v9
-              with:
-                  urls: |
-                      https://totallynotdavid.github.io/urls/
-                      https://totallynotdavid.github.io/urls/basededatos
-                  budgetPath: ./.github/budget.json
-                  uploadArtifacts: true
-                  temporaryPublicStorage: true
+      - uses: treosh/lighthouse-ci-action@v9
+        with:
+          urls: |
+            https://totallynotdavid.github.io/urls/
+            https://totallynotdavid.github.io/urls/basededatos
+          budgetPath: ./.github/budget.json
+          uploadArtifacts: true
+          temporaryPublicStorage: true
