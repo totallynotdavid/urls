@@ -10,12 +10,13 @@ El sitio solo enlaza: no aloja archivos. Se publica en
 
 ## Ejecutar el sitio en local
 
-Necesitas [Bun](https://bun.sh) 1.3.14 (`mise install` lo instala desde
-[`mise.toml`](mise.toml)).
+Necesitas [mise](https://mise.jdx.dev), que instala Bun desde
+[`mise.toml`](mise.toml).
 
 ```sh
-bun install
-bun run dev
+mise install
+mise run install
+mise run dev
 ```
 
 El sitio queda en <http://localhost:5173/urls/>.

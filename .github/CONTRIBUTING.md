@@ -5,27 +5,31 @@ páginas Markdown en español. Una contribución añade, corrige o quita enlaces
 
 ## Preparar el entorno
 
-Necesitas [Bun](https://bun.sh) 1.3.14 (`mise install` lo instala desde
-[`mise.toml`](../mise.toml)).
+Necesitas [mise](https://mise.jdx.dev), que instala Bun desde
+[`mise.toml`](../mise.toml).
 
 ```sh
-bun install
-bun run dev
+mise install
+mise run install
+mise run dev
 ```
 
 El sitio queda en <http://localhost:5173/urls/> y se recarga al guardar.
 
-| Comando           | Qué hace                                        |
-| ----------------- | ----------------------------------------------- |
-| `bun run dev`     | Servidor local.                                 |
-| `bun run dev:lan` | Servidor local visible desde la red (`--host`). |
-| `bun run build`   | Genera el sitio en `docs/.vitepress/dist/`.     |
-| `bun run preview` | Sirve el resultado de `build`.                  |
-| `bun run lint`    | Revisa el Markdown con `markdownlint-cli2`.     |
+| Comando            | Qué hace                                                        |
+| ------------------ | --------------------------------------------------------------- |
+| `mise run dev`     | Servidor local.                                                 |
+| `mise run dev:lan` | Servidor local visible desde la red (`--host`).                 |
+| `mise run build`   | Genera el sitio en `docs/.vitepress/dist/`.                     |
+| `mise run preview` | Sirve el resultado de `build`.                                  |
+| `mise run lint`    | Revisa el código, el formato y el Markdown sin escribir.        |
+| `mise run fix`     | Aplica las correcciones seguras y da formato.                   |
+| `mise run check`   | Ejecuta `lint` y `build`, lo mismo que la integración continua. |
 
-`bun run lint` revisa `*.md`, `.github/*.md` y `docs/**/*.md` con la
-configuración de [`.markdownlint-cli2.jsonc`](../.markdownlint-cli2.jsonc). Para
-revisar solo tus archivos: `bunx markdownlint-cli2 docs/diseno.md`.
+`mise run lint:md` revisa `*.md`, `.github/*.md` y `docs/**/*.md` con la
+configuración de [`.markdownlint-cli2.jsonc`](../.markdownlint-cli2.jsonc). El
+formato lo fija [`.oxfmtrc.json`](../.oxfmtrc.json) y `mise run fix` lo aplica.
+Para revisar solo tus archivos: `bunx markdownlint-cli2 docs/diseno.md`.
 
 ## Añadir o corregir un enlace
 
@@ -34,7 +38,7 @@ revisar solo tus archivos: `bunx markdownlint-cli2 docs/diseno.md`.
 2. Copia el formato de las filas vecinas. Una tabla típica usa las columnas
    `Nombre`, `Características` y `Enlace`, y el enlace se escribe
    `[Visitar](https://…)`.
-3. Revisa el resultado con `bun run dev`. `bun run build` falla si una página
+3. Revisa el resultado con `mise run dev`. `mise run build` falla si una página
    enlaza a una página interna que no existe.
 
 Cada página de la web tiene un enlace «Editar en GitHub» que abre su archivo.
@@ -84,7 +88,7 @@ de los términos que usan las notas. Edítalo ahí.
 ## Publicación
 
 El flujo [`publish.yml`](workflows/publish.yml) compila el sitio con
-`bun run build` y lo publica en GitHub Pages. Se ejecuta al subir a `master` un
-cambio en `docs/**`, `package.json`, `bun.lock` o el propio `publish.yml`. Para
-publicar sin un cambio de esos archivos, ejecútalo desde la pestaña Actions del
-repositorio (`Run workflow`).
+`mise run build` y lo publica en GitHub Pages. Se ejecuta al subir a `master` un
+cambio en `docs/**`, `package.json`, `bun.lock`, `mise.toml` o el propio
+`publish.yml`. Para publicar sin un cambio de esos archivos, ejecútalo desde la
+pestaña Actions del repositorio (`Run workflow`).
