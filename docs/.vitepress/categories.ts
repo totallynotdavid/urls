@@ -1,4 +1,3 @@
-// Keep category order here. The home cards and sidebar both consume this list.
 export const categories = [
   {
     title: "Base de datos",
