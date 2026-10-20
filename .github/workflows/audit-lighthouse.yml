@@ -5,17 +5,25 @@ on:
   push:
     branches: [master]
     paths:
-      - "docs/**"
       - ".github/budget.json"
       - ".github/workflows/audit-lighthouse.yml"
+  workflow_run:
+    workflows: ["Deploy VitePress site to Pages"]
+    types: [completed]
+    branches: [master]
 
 jobs:
   lighthouse:
     name: User Experience Audit
     runs-on: ubuntu-latest
+    if:
+      github.event_name != 'workflow_run' ||
+      github.event.workflow_run.conclusion == 'success'
 
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
 
       - uses: treosh/lighthouse-ci-action@3e7e23fb74242897f95c0ba9cabad3d0227b9b18 # v12.6.2
         with:
