@@ -3,6 +3,18 @@
   "license": "ISC",
   "author": "totallynotdavid",
   "type": "module",
+  "scripts": {
+    "build": "vitepress build docs",
+    "check": "bun run lint && bun run build",
+    "dev": "vitepress dev docs",
+    "dev:lan": "vitepress dev docs --host 0.0.0.0",
+    "fix": "oxlint --fix && oxfmt .",
+    "lint": "bun run lint:js && bun run lint:format && bun run lint:md",
+    "lint:format": "oxfmt --check .",
+    "lint:js": "oxlint --deny-warnings",
+    "lint:md": "markdownlint-cli2 '*.md' '.github/*.md' 'docs/**/*.md'",
+    "preview": "vitepress preview docs"
+  },
   "devDependencies": {
     "markdown-it-async": "^2.2.0",
     "markdownlint-cli2": "^0.23.3",
