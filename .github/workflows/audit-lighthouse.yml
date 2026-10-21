@@ -12,6 +12,9 @@ on:
     types: [completed]
     branches: [master]
 
+permissions:
+  contents: read
+
 jobs:
   lighthouse:
     name: User Experience Audit
