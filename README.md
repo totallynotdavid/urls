@@ -15,8 +15,8 @@ Necesitas [mise](https://mise.jdx.dev), que instala Bun desde
 
 ```sh
 mise install
-mise run install
-mise run dev
+bun install
+bun run dev
 ```
 
 El sitio queda en <http://localhost:5173/urls/>.
