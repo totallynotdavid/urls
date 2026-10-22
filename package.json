@@ -16,8 +16,7 @@
     "preview": "vitepress preview docs"
   },
   "devDependencies": {
-    "markdown-it-async": "^2.2.0",
-    "markdownlint-cli2": "^0.23.3",
+    "markdownlint-cli2": "^0.24.0",
     "oxfmt": "^0.74.0",
     "oxlint": "^1.89.0",
     "vitepress": "2.0.0-alpha.20"
