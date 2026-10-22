@@ -1,10 +1,10 @@
 import { existsSync } from "node:fs";
-import type MarkdownIt from "markdown-it-async";
+import type { MarkdownRenderer } from "vitepress";
 
 const flagsDir = new URL("../../public/flags/", import.meta.url);
 
 // Keep the image src root-absolute. VitePress applies the site `base` at HTML time.
-export default function flagShortcode(md: MarkdownIt) {
+export default function flagShortcode(md: MarkdownRenderer) {
   md.inline.ruler.after("emphasis", "flag", (state, silent) => {
     const re = /:flag-([a-z]{2}):/y;
     re.lastIndex = state.pos;
