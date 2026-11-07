@@ -18,7 +18,7 @@ export default defineConfig({
   },
 
   markdown: {
-    headers: { level: [2, 3] },
+    headers: { level: [1, 2, 3, 4] },
     config: (md) => {
       md.use(flagShortcode);
     },
@@ -41,7 +41,7 @@ export default defineConfig({
       ],
     },
 
-    outline: { level: [2, 3], label: "En esta página" },
+    outline: { level: [1, 4], label: "En esta página" },
 
     socialLinks: [
       { icon: "github", link: "https://www.github.com/totallynotdavid" },
